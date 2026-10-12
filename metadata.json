@@ -1,0 +1,8 @@
+{
+  "name": "Rajawat Ascent - Coaching Institute",
+  "description": "Premium multipage educational website for Rajawat Classes in Bindayaka, Jaipur, featuring comprehensive courses for Classes 1 to 12 and specialized Chemistry guidance.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ],
+  "permissions": []
+}
